@@ -11,3 +11,12 @@ Python end of support
 
 3.10 will end support in 2026
 
+How to run these  programs 
+
+1. Use Visual code studio install and set up visual code studio
+
+2. Use one of the recommeded python versions from this achive from 2.7 and onwards
+ 
+3. now make a python varible if you haven't for maing python to appear in the python intepurer of Visual code studio
+
+4.  Recommeded make  a venv envirment so that the enriment can do separte things in a different envirment.
